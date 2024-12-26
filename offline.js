@@ -1,0 +1,33 @@
+﻿{
+	"version": 1735219335,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/previewfile_-sheet0.png",
+		"images/previewfile_-sheet1.png",
+		"images/герой-sheet0.png",
+		"images/Спрайт2-sheet0.png",
+		"images/Спрайт3-sheet0.png",
+		"images/Спрайт4-sheet0.png",
+		"images/Спрайт5-sheet0.png",
+		"images/Спрайт6-sheet0.png",
+		"images/Спрайт6-sheet1.png",
+		"images/Спрайт6-sheet2.png",
+		"images/Спрайт8-sheet0.png",
+		"images/Спрайт11-sheet0.png",
+		"images/Спрайт-sheet0.png",
+		"images/босс-sheet0.png",
+		"images/босс-sheet1.png",
+		"images/босс-sheet2.png",
+		"images/босс-sheet3.png",
+		"images/кс-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
